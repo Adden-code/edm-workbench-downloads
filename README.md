@@ -2,6 +2,15 @@
 
 本仓库提供已发布的 Windows 安装包与使用说明。
 
+## 0.2.8
+
+新增工作台内模型配置：文字/图片模型可独立或共用，支持GLM等OpenAI兼容接口与Gemini，Key留空保留，独立测试连接，保存即时用于新任务。纯程序更新保留外置资料、市场映射与8321端口配置；真实内网服务连接待用户测试。
+
+- [Windows 安装包](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.8/EDMWorkbench-Setup-0.2.8.exe)
+- [Portable ZIP](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.8/EDMWorkbench-Portable-0.2.8.zip)
+- [逐条验收与安装说明](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.8/DELIVERY.zh-CN.md)
+- [SHA-256 校验](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.8/SHA256SUMS.txt)
+
 ## 0.2.7
 
 第六轮4项更新：币种等价核对与逐项确认、统一弹窗关闭、行内/跨页批量删除、趋势图双差值说明。保留外置资料、市场映射与8321端口配置；新一轮真实内网验收待业务复测。
