@@ -2,6 +2,15 @@
 
 本仓库提供已发布的 Windows 安装包与使用说明。
 
+## 0.2.7
+
+第六轮4项更新：币种等价核对与逐项确认、统一弹窗关闭、行内/跨页批量删除、趋势图双差值说明。保留外置资料、市场映射与8321端口配置；新一轮真实内网验收待业务复测。
+
+- [Windows 安装包](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.7/EDMWorkbench-Setup-0.2.7.exe)
+- [Portable ZIP](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.7/EDMWorkbench-Portable-0.2.7.zip)
+- [逐条验收与安装说明](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.7/DELIVERY.zh-CN.md)
+- [SHA-256 校验](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.7/SHA256SUMS.txt)
+
 ## 0.2.6
 
 第五轮6项更新：表头漏数补齐、图片代理诊断、关键词OR、批量活动归属、多旅程提示及固定端口；保留外置资料与配置。企业内网图片仍需复验。
