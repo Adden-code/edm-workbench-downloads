@@ -11,6 +11,15 @@
 - [逐条验收与安装说明](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.5/DELIVERY.zh-CN.md)
 - [SHA-256 校验](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.5/SHA256SUMS.txt)
 
+## 0.2.6
+
+第四轮效果复盘易用性更新；保留外置资料与配置。
+
+- [Windows 安装包](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.6/EDMWorkbench-Setup-0.2.6.exe)
+- [Portable ZIP](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.6/EDMWorkbench-Portable-0.2.6.zip)
+- [逐条验收与安装说明](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.6/DELIVERY.zh-CN.md)
+- [SHA-256 校验](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.6/SHA256SUMS.txt)
+
 ## 0.2.4
 
 - [Windows 安装包](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.4/EDMWorkbench-Setup-0.2.4.exe)
