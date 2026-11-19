@@ -2,6 +2,15 @@
 
 本仓库提供已发布的 Windows 安装包与使用说明。
 
+## 0.2.9
+
+修复RGE列表缺品牌字段与原文404，补充详情核验、采集结果和加入洞察资料入口。效果复盘增加章节跳转、集中批量操作、隐藏勾选提示，并修复加载失败后显示旧活动数据的问题。一次真实RGE查询入库23条、重复采集新增0；EmailLove仍返回403，真实员工Outlook同步待验。纯程序更新保留外置数据、模型配置和端口配置，不改核算口径。
+
+- [Windows 安装包](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.9/EDMWorkbench-Setup-0.2.9.exe)
+- [Portable ZIP](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.9/EDMWorkbench-Portable-0.2.9.zip)
+- [逐条验收与安装说明](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.9/DELIVERY.zh-CN.md)
+- [SHA-256 校验](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.9/SHA256SUMS.txt)
+
 ## 0.2.8
 
 新增工作台内模型配置：文字/图片模型可独立或共用，支持GLM等OpenAI兼容接口与Gemini，Key留空保留，独立测试连接，保存即时用于新任务。纯程序更新保留外置资料、市场映射与8321端口配置；真实内网服务连接待用户测试。
