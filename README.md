@@ -2,6 +2,15 @@
 
 本仓库提供已发布的 Windows 安装包与使用说明。
 
+## 0.2.10
+
+第七轮：多图多页按关联逐对核验；2–4封邮件横向指标对比、原始数量详情与打印/Word/CSV导出；业务数据ZIP校验、预览与空库恢复或备份覆盖；Outlook同步阶段、120秒无进展终止和本机自检日志。纯程序更新，不内置业务数据和API Key；不改变SQLite表结构或既有核算口径。真实员工Outlook和内网GLM仍需在目标环境复验。
+
+- [Windows 安装包](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.10/EDMWorkbench-Setup-0.2.10.exe)
+- [Portable ZIP](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.10/EDMWorkbench-Portable-0.2.10.zip)
+- [逐条验收与安装说明](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.10/DELIVERY.zh-CN.md)
+- [SHA-256 校验](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.10/SHA256SUMS.txt)
+
 ## 0.2.9
 
 修复RGE列表缺品牌字段与原文404，补充详情核验、采集结果和加入洞察资料入口。效果复盘增加章节跳转、集中批量操作、隐藏勾选提示，并修复加载失败后显示旧活动数据的问题。一次真实RGE查询入库23条、重复采集新增0；EmailLove仍返回403，真实员工Outlook同步待验。纯程序更新保留外置数据、模型配置和端口配置，不改核算口径。
