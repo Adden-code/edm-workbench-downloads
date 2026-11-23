@@ -2,6 +2,15 @@
 
 本仓库提供已发布的 Windows 安装包与使用说明。
 
+## 0.2.11
+
+修复核验证据中的产品描述被误当附件路径、阻止业务数据导出的问题；真实缺失附件与迁移完整性检查保留。纯程序更新，无数据库结构或依赖变化，保留业务资料与本机配置。已验证本机旧库357封邮件、13条效果记录导出和空库恢复；业务反馈的347条版本仍待目标环境复验。
+
+- [Windows 安装包](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.11/EDMWorkbench-Setup-0.2.11.exe)
+- [Portable ZIP](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.11/EDMWorkbench-Portable-0.2.11.zip)
+- [逐条验收与安装说明](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.11/DELIVERY.zh-CN.md)
+- [SHA-256 校验](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.11/SHA256SUMS.txt)
+
 ## 0.2.10
 
 第七轮：多图多页按关联逐对核验；2–4封邮件横向指标对比、原始数量详情与打印/Word/CSV导出；业务数据ZIP校验、预览与空库恢复或备份覆盖；Outlook同步阶段、120秒无进展终止和本机自检日志。纯程序更新，不内置业务数据和API Key；不改变SQLite表结构或既有核算口径。真实员工Outlook和内网GLM仍需在目标环境复验。
