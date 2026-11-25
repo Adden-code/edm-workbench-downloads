@@ -2,6 +2,15 @@
 
 本仓库提供已发布的 Windows 安装包与使用说明。
 
+## 0.2.12
+
+第八轮：全局范围筛选、六项绝对计数指标、相对历史变化、单封邮件数据与旅程筛选、发送日历，以及 win32timezone 打包修复。纯程序更新，无数据库结构或依赖变化；沿用外置业务数据与8321端口配置。真实员工邮箱同步须在相应电脑复验。
+
+- [Windows 安装包](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.12/EDMWorkbench-Setup-0.2.12.exe)
+- [Portable ZIP](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.12/EDMWorkbench-Portable-0.2.12.zip)
+- [逐条验收与安装说明](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.12/DELIVERY.zh-CN.md)
+- [SHA-256 校验](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.12/SHA256SUMS.txt)
+
 ## 0.2.11
 
 修复核验证据中的产品描述被误当附件路径、阻止业务数据导出的问题；真实缺失附件与迁移完整性检查保留。纯程序更新，无数据库结构或依赖变化，保留业务资料与本机配置。已验证本机旧库357封邮件、13条效果记录导出和空库恢复；业务反馈的347条版本仍待目标环境复验。
