@@ -2,6 +2,15 @@
 
 本仓库提供已发布的 Windows 安装包与使用说明。
 
+## 0.2.13
+
+第九轮：发送节奏与月历统一入口、紧凑旅程月历、单封数据表布局、日周月季年历史切换与单期历史补全，以及运行占用保护的原地升级。纯程序更新，无数据库结构或依赖变化；沿用外置业务数据与8321端口配置。真实员工邮箱同步须在相应电脑复验。
+
+- [Windows 安装包](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.13/EDMWorkbench-Setup-0.2.13.exe)
+- [Portable ZIP](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.13/EDMWorkbench-Portable-0.2.13.zip)
+- [逐条验收与安装说明](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.13/DELIVERY.zh-CN.md)
+- [SHA-256 校验](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.13/SHA256SUMS.txt)
+
 ## 0.2.12
 
 第八轮：全局范围筛选、六项绝对计数指标、相对历史变化、单封邮件数据与旅程筛选、发送日历，以及 win32timezone 打包修复。纯程序更新，无数据库结构或依赖变化；沿用外置业务数据与8321端口配置。真实员工邮箱同步须在相应电脑复验。
