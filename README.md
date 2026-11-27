@@ -2,6 +2,15 @@
 
 本仓库提供已发布的 Windows 安装包与使用说明。
 
+## 0.2.15
+
+第十一轮：章节导航吸顶、玻璃胶囊与滚动高亮、发送月历移到页面最后、旅程汇总补齐按有效计数加权的比率和参与数量。纯程序更新，无数据库结构或依赖变化；沿用外置业务数据与8321端口配置。本机工程验证通过，真实内网业务仍待复验。
+
+- [Windows 安装包](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.15/EDMWorkbench-Setup-0.2.15.exe)
+- [Portable ZIP](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.15/EDMWorkbench-Portable-0.2.15.zip)
+- [逐条验收与安装说明](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.15/DELIVERY.zh-CN.md)
+- [SHA-256 校验](https://github.com/Adden-code/edm-workbench-downloads/releases/download/v0.2.15/SHA256SUMS.txt)
+
 ## 0.2.14
 
 第十轮：发送月历迁入效果复盘、六指标卡精简、旅程任务完整换行、旅程分组折叠、独立邮件与方案对比、删除审计及批量删除前完整备份。纯程序更新，无数据库结构或依赖变化；沿用外置业务数据与8321端口配置。真实员工邮箱同步须在相应电脑复验。
